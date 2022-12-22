@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF4_228138_SOLUCIONES_TRANSFORMACION_DIGITAL/#/](https://ecored-sena.github.io/CF4_228138_SOLUCIONES_TRANSFORMACION_DIGITAL/#/)
 
 #
 
