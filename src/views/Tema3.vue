@@ -8,9 +8,9 @@
       h1 Fase de definición de requisitos
     .row.justify-content-center.align-items-start.mb-4
       .col-lg-6.my-3
-        p(data-aos="fade-down") En esta primera fase del ciclo de vida del software, también llamada fase de análisis, se recopila, se examina y se formulan los requisitos del cliente, así como la verificación de las posibles restricciones que se puedan aplicar.
+        p(data-aos="fade-down") En esta primera fase del ciclo de vida del <i>software</i>, también llamada fase de análisis, se recopila, se examina y se formulan los requisitos del cliente, así como la verificación de las posibles restricciones que se puedan aplicar.
 
-        p(data-aos="fade-down") Por eso, la etapa de análisis en el ciclo de vida del software corresponde al proceso a través del cual se intenta descubrir qué es lo que realmente se necesita y se llega a una comprensión adecuada de los requerimientos del sistema (las características que el sistema debe poseer).      
+        p(data-aos="fade-down") Por eso, la etapa de análisis en el ciclo de vida del <i>software</i> corresponde al proceso a través del cual se intenta descubrir qué es lo que realmente se necesita y se llega a una comprensión adecuada de los requerimientos del sistema (las características que el sistema debe poseer).      
       .col-lg-6.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/62.png', alt='')
     .bg3.p-5

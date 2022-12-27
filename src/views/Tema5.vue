@@ -20,7 +20,7 @@
       .tarjeta
         .bloque-texto-c.color-secundario.p-4
           i.fas.fa-quote-right
-          h4.mb-2 La ingeniería de requisitos es el proceso de estudiar las necesidades del usuario para llegar a una definición de requisitos de sistema, hardware o software.
+          h4.mb-2 La ingeniería de requisitos es el proceso de estudiar las necesidades del usuario para llegar a una definición de requisitos de sistema, hardware o <i>software</i>.
           span - (IEEE, 1990).    
       .tarjeta
         .bloque-texto-c.color-secundario.p-4
@@ -28,7 +28,7 @@
           h4.mb-2 La ingeniería de requisitos puede considerarse como un proceso de descubrimiento y comunicación de las necesidades de clientes y usuarios y la gestión de los cambios de dichas necesidades.
           span - (Amador, 2000)
 
-    p(data-aos="fade-down").mb-5 El término IR <b>“ingeniería de requisitos”</b> ha surgido para englobar los procesos de desarrollo y gestión de requisitos en el ciclo de vida del software, el primer término (ingeniería) se enfoca en las actividades de obtención, análisis, especificación y validación de los requisitos que permitirá alcanzar los objetivos del negocio y el segundo (requisitos) está centrado en la administración de los mismos y tiene como propósito central la gestión de los cambios y la trazabilidad, de esta forma la IR proporciona el mecanismo apropiado para: 
+    p(data-aos="fade-down").mb-5 El término IR <b>“ingeniería de requisitos”</b> ha surgido para englobar los procesos de desarrollo y gestión de requisitos en el ciclo de vida del <i>software</i>, el primer término (ingeniería) se enfoca en las actividades de obtención, análisis, especificación y validación de los requisitos que permitirá alcanzar los objetivos del negocio y el segundo (requisitos) está centrado en la administración de los mismos y tiene como propósito central la gestión de los cambios y la trazabilidad, de esta forma la IR proporciona el mecanismo apropiado para: 
 
     .row.justify-content-center.align-items-start.mb-4
       .col-lg-3.my-3
@@ -63,7 +63,7 @@
     .row.justify-content-center.align-items-start
       .col-lg-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg6")
-          .row.justify-content-center.align-items-center(titulo="Elicitación.") 
+          .row.justify-content-center.align-items-center(titulo="Elicitación") 
             p Actividad involucrada en el descubrimiento de los requisitos del sistema. Aquí los analistas deben trabajar junto con el cliente para descubrir el problema que el sistema debe resolver, los diferentes servicios que el sistema debe prestar y las restricciones que se pueden presentar.
 
             p Los principales objetivos que se deben alcanzar son los siguientes:
@@ -85,7 +85,7 @@
                       i.fas.fa-angle-right.vcolor
                       p.mb-0 Consensuar los requisitos entre los propios clientes y usuarios hasta obtener una visión común de los mismos.    
 
-          .row.justify-content-center.align-items-center(titulo="Análisis.") 
+          .row.justify-content-center.align-items-center(titulo="Análisis") 
             p Sobre la base de la obtención realizada previamente, comienza esta fase la cual tiene como propósito descubrir problemas con los requisitos del sistema identificados hasta el momento, para ello se basa en los siguientes objetivos:
             .row.justify-content-center.align-items-center.bgw             
               .col-lg-4.col-md-12
@@ -99,14 +99,14 @@
                     li 
                       i.fas.fa-angle-right.vcolor
                       p.mb-0 Profundizar en el conocimiento del dominio del problema puede facilitar el proceso de construir un producto útil para clientes y usuarios (Durán, 2000).    
-
-          .row.justify-content-center.align-items-center(titulo="Especificación..") 
+            p.mt-4 En esta fase, el analista proporciona un sistema de retroalimentación que refina el entendimiento conseguido en la etapa de obtención.
+          .row.justify-content-center.align-items-center(titulo="Especificación") 
             .col-lg-4.col-md-12
               img.img-a.img-t(src='@/assets/curso/temas/78.png', alt='')                   
             .col-lg-8.col-md-12
               p Aquí se documentan los requisitos acordados con el cliente, en un nivel apropiado de detalle. En la práctica, esta etapa se realiza conjuntamente con el análisis, por lo que se puede decir que la especificación es el “pasar en limpio” el análisis realizado previamente aplicando técnicas y/o estándares de documentación, como la notación UML (Lenguaje de Modelado Unificado), que es un estándar para el modelado orientado a objetos, por lo que los casos de uso y la obtención de requisitos basada en los casos de uso se utilizan cada vez más para la obtención de requisitos.    
 
-          .row.justify-content-center.align-items-center(titulo="Validación.") 
+          .row.justify-content-center.align-items-center(titulo="Validación") 
             .col-lg-4.col-md-12
               img.img-a.img-t(src='@/assets/curso/temas/79.png', alt='')                   
             .col-lg-8.col-md-12

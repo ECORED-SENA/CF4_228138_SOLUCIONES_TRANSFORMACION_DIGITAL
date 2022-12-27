@@ -7,7 +7,7 @@
         span 1
       h1 Aplicaciones web
 
-    p(data-aos="fade-down").mb-5 En la historia de la computación la Web sin duda fue el acontecimiento que marcó el hito más importante para la popularidad y el aumento del uso de la Internet, que ya venía naciendo entre los años 60 y 70 del siglo pasado, pero no había tenido relevancia más allá de los proyectos científicos, las grandes corporaciones, los académicos y los militares; sin embargo, no fue hasta década y media después que con la creación de la World Wide Web publicada en 1990 por el inglés Tim Berners-Lee permitió su popularidad y su funcionalidad, pues aumentó el uso a través de los navegadores (browser). 
+    p(data-aos="fade-down").mb-5 En la historia de la computación la web sin duda fue el acontecimiento que marcó el hito más importante para la popularidad y el aumento del uso de la internet, que ya venía naciendo entre los años 60 y 70 del siglo pasado, pero no había tenido relevancia más allá de los proyectos científicos, las grandes corporaciones, los académicos y los militares; sin embargo, no fue hasta década y media después que con la creación de la World Wide web publicada en 1990 por el inglés Tim Berners-Lee permitió su popularidad y su funcionalidad, pues aumentó el uso a través de los navegadores (<i>browser</i>). 
 
     .row.align-items-center.justify-content-center
       .col-lg-10 
@@ -16,9 +16,9 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/2.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Las aplicaciones web son, entonces, los servicios que se desarrollan en la Web, implicando el despliegue de un conjunto de software, tecnologías y plataformas que soportan su funcionamiento, comunicación y transmisión. 
+            p.mb-0 Las aplicaciones web son, entonces, los servicios que se desarrollan en la web, implicando el despliegue de un conjunto de <i>software</i>, tecnologías y plataformas que soportan su funcionamiento, comunicación y transmisión. 
 
-    p(data-aos="fade-down").mb-5 Los diversos servicios web intercambian datos entre sí para ofrecer servicios más sofisticados y específicos. Esto sucede bajo una arquitectura básica, donde los proveedores brindan servicios remotos que podrían ser solicitados por usuarios a través de llamados que llegan al cliente, todo por medio de la Web.  
+    p(data-aos="fade-down").mb-5 Los diversos servicios web intercambian datos entre sí para ofrecer servicios más sofisticados y específicos. Esto sucede bajo una arquitectura básica, donde los proveedores brindan servicios remotos que podrían ser solicitados por usuarios a través de llamados que llegan al cliente, todo por medio de la web.  
 
     Separador 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -29,9 +29,9 @@
         .col-auto.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/3.svg', alt='')  
         .col-10.my-3
-          p(data-aos="fade-down") Existen diversos elementos que son importantes de entender, si bien no son nuevos, son la fundamentación tecnológica que soporta el funcionamiento de los aplicativos basados en la Web y su funcionamiento en la Internet. 
+          p(data-aos="fade-down") Existen diversos elementos que son importantes de entender, si bien no son nuevos, son la fundamentación tecnológica que soporta el funcionamiento de los aplicativos basados en la web y su funcionamiento en la internet. 
 
-          p(data-aos="fade-down") A continuación se mencionan los aspectos más relevantes que todo profesional de la digitalización y la transformación tecnológica debe conocer y estudiar, donde cada elemento implica una arquitectura y una capa en el funcionamiento de la Internet a través de la Web .
+          p(data-aos="fade-down") A continuación se mencionan los aspectos más relevantes que todo profesional de la digitalización y la transformación tecnológica debe conocer y estudiar, donde cada elemento implica una arquitectura y una capa en el funcionamiento de la internet a través de la web .
                        	              
     .bg1.p-4.mb-5(data-aos="fade-left")
       SlyderA(tipo="b")
@@ -40,37 +40,37 @@
             img.img-a.img-t(src='@/assets/curso/temas/4.png', alt='')  
           .col-lg-6.col-md-12.my-3
             h4.mb-4 WWW	
-            p Son las iniciales de Word Wide Web, por lo general se colocan estas tres letras para indicar al navegador que se trata de un aplicativo web, que se despliega mediante el protocolo HTTP.
+            p Son las iniciales de Word Wide web, por lo general se colocan estas tres letras para indicar al navegador que se trata de un aplicativo web, que se despliega mediante el protocolo HTTP.
         .row.align-items-center.justify-content-center
           .col-lg-6.col-md-12.my-3
             img.img-a.img-t(src='@/assets/curso/temas/5.png', alt='')  
           .col-lg-6.col-md-12.my-3
             h4.mb-4 HTTP	
-            p Son las siglas de Hypertext Transfer Protocol que significa protocolo de comunicación para la transferencia de hipertexto, usado en las aplicaciones Web.
+            p Son las siglas de Hypertext Transfer Protocol que significa protocolo de comunicación para la transferencia de hipertexto, usado en las aplicaciones web.
         .row.align-items-center.justify-content-center
           .col-lg-6.col-md-12.my-3
             img.img-a.img-t(src='@/assets/curso/temas/6.png', alt='')  
           .col-lg-6.col-md-12.my-3
             h4.mb-4 IP
-            p Son las siglas de Internet Protocol que significa Protocolo de Internet, es un protocolo de comunicación, de la capa de red, que se responsabiliza de las direcciones IP y determina las rutas de salida y llegada de los paquetes de datos que van y vienen. Cada página web cuenta con una dirección IP única, desde la línea de comando puede conocerla mediante el comando ping a la página web.
+            p Son las siglas de internet Protocol que significa Protocolo de internet, es un protocolo de comunicación, de la capa de red, que se responsabiliza de las direcciones IP y determina las rutas de salida y llegada de los paquetes de datos que van y vienen. Cada página web cuenta con una dirección IP única, desde la línea de comando puede conocerla mediante el comando <i>ping</i> a la página web.
         .row.align-items-center.justify-content-center
           .col-lg-6.col-md-12.my-3
             img.img-a.img-t(src='@/assets/curso/temas/7.png', alt='')  
           .col-lg-6.col-md-12.my-3
             h4.mb-4 DNS	
-            p Es el sistema traduce los nombres de los dominios, por ejemplo, www.sena.edu.co a direcciones IP aptas para la lectura por parte de las máquinas (ejemplo: 186.113.6.24). Desde la línea de comandos puede usar la herramienta nslookup seguido de la dirección web.
+            p Es el sistema traduce los nombres de los dominios, por ejemplo, www.sena.edu.co a direcciones IP aptas para la lectura por parte de las máquinas (ejemplo: 186.113.6.24). Desde la línea de comandos puede usar la herramienta <i>nslookup</i> seguido de la dirección web.
         .row.align-items-center.justify-content-center
           .col-lg-6.col-md-12.my-3
             img.img-a.img-t(src='@/assets/curso/temas/8.png', alt='')  
           .col-lg-6.col-md-12.my-3
             h4.mb-4 URL
-            p Son las siglas de Uniform Resource Locator que significa Localizador de recursos uniforme, se trata de la dirección única que se asigna a cada recurso de una Web. Esta URL la usan los navegadores y los usuarios para llegar a una Web o a un lugar específico de esta.
+            p Son las siglas de Uniform Resource Locator que significa Localizador de recursos uniforme, se trata de la dirección única que se asigna a cada recurso de una web. Esta URL la usan los navegadores y los usuarios para llegar a una web o a un lugar específico de esta.
         .row.align-items-center.justify-content-center
           .col-lg-6.col-md-12.my-3
             img.img-a.img-t(src='@/assets/curso/temas/9.png', alt='')  
           .col-lg-6.col-md-12.my-3
             h4.mb-4 HTML
-            p Son las siglas de HyperText Markup Language que significa lenguaje de marcado de hipertexto, es el lenguaje ‘nativo’ que se utiliza en los sitios web y lo traduce el explorador o navegador para mostrar los contenidos. Actualmente, la Web no solo usa HTML, se complementa con estilos (CSS), JavaScript, XML y otros recursos de programación.
+            p Son las siglas de HyperText Markup Language que significa lenguaje de marcado de hipertexto, es el lenguaje ‘nativo’ que se utiliza en los sitios web y lo traduce el explorador o navegador para mostrar los contenidos. Actualmente, la web no solo usa HTML, se complementa con estilos (CSS), JavaScript, XML y otros recursos de programación.
         .row.align-items-center.justify-content-center
           .col-lg-6.col-md-12.my-3
             img.img-a.img-t(src='@/assets/curso/temas/10.png', alt='')  
@@ -86,7 +86,7 @@
                                                                               Separador 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.2  Plataformas          
-    p(data-aos="fade-down").mb-5 Son espacios en la Internet que ejecutan diversas aplicaciones, servicios o programas, estos permiten la virtualización de servicios especializados, ahorrando tiempo de desarrollo y optimizando los recursos, pues las organizaciones solo deben concentrarse en su acción misional sin preocupaciones por las herramientas digitales o contratar personas especializadas, e incluso contar con mayor flexibilidad al momento de cambiar de proveedor si no satisface los requerimientos o las necesidades.
+    p(data-aos="fade-down").mb-5 Son espacios en la internet que ejecutan diversas aplicaciones, servicios o programas, estos permiten la virtualización de servicios especializados, ahorrando tiempo de desarrollo y optimizando los recursos, pues las organizaciones solo deben concentrarse en su acción misional sin preocupaciones por las herramientas digitales o contratar personas especializadas, e incluso contar con mayor flexibilidad al momento de cambiar de proveedor si no satisface los requerimientos o las necesidades.
 
     .row.align-items-center.justify-content-center.mb-5
       .col-auto
@@ -104,12 +104,12 @@
           .col-lg-10
             img.img-a.img-t.mb-4(src='@/assets/curso/temas/17.png', alt='')
             p Se trata de plataformas LMS (Learning Management System - sistema de gestión del aprendizaje) y otras, que se concentran en gestionar contenido educativo y usuarios con sus roles correspondientes, en estas se crean cursos, materiales de formación, se gestionan exámenes, certificados y todo lo relacionado tanto con lo académico como con lo administrativo.
-      .py-4.py-md-5(titulo="Comercio electrónico (e-commerce)" :icono="require('@/assets/curso/temas/14.png')")
+      .py-4.py-md-5(titulo="Comercio electrónico (<i>e-commerce</i>)" :icono="require('@/assets/curso/temas/14.png')")
         .row.align-items-center.justify-content-center
           .col-lg-10
             img.img-a.img-t.mb-4(src='@/assets/curso/temas/18.png', alt='')
-            p Son plataformas dedicadas a las ventas, a través de estas las personas pueden averiguar, cotizar y comprar desde Internet, permitiendo que la masificación de transacciones y compras online venga en aumento en Latinoamérica y especialmente en Colombia.
-      .py-4.py-md-5(titulo="Computación en la nube (Cloud computing)" :icono="require('@/assets/curso/temas/15.png')")
+            p Son plataformas dedicadas a las ventas, a través de estas las personas pueden averiguar, cotizar y comprar desde internet, permitiendo que la masificación de transacciones y compras <i>online</i> venga en aumento en Latinoamérica y especialmente en Colombia.
+      .py-4.py-md-5(titulo="Computación en la nube (<i>Cloud computing</i>)" :icono="require('@/assets/curso/temas/15.png')")
         .row.align-items-center.justify-content-center
           .col-lg-10
             img.img-a.img-t.mb-4(src='@/assets/curso/temas/19.png', alt='')
@@ -120,7 +120,7 @@
         .bg3.p-4
           .row.align-items-center.justify-content-center
             .col-lg-7.my-3
-              p(data-aos="fade-down") Para cada necesidad existe una o muchas plataformas web que permiten desarrollar fácilmente lo que se requiera, ya sea para el desarrollo web o de aplicaciones, marketing, diseño e imagen, diversión y juegos, apuestas, gestión de proyectos, etc.
+              p(data-aos="fade-down") Para cada necesidad existe una o muchas plataformas web que permiten desarrollar fácilmente lo que se requiera, ya sea para el desarrollo web o de aplicaciones, <i>marketing</i>, diseño e imagen, diversión y juegos, apuestas, gestión de proyectos, etc.
 
               p(data-aos="fade-down").mb-0 Todas las plataformas han tenido un crecimiento importante, las opciones en el mercado son múltiples y con muy buenas prestaciones, antes de iniciar proyectos web enmarcados en una actividad específica, no está de más realizar investigaciones previas a los proyectos para definir las mejores opciones para las organizaciones.                
             .col-lg-5.my-3
@@ -193,7 +193,7 @@
               .col-8
                 img.img-a.img-t.mb-3.mt-4(src="@/assets/curso/temas/27.png", alt="alt").img100.m-auto
             h4.mb-3 Cassandra
-            p.mb-0 Es un tipo de base de datos NoSQL, tiene un nivel muy elevado de compatibilidad para el clúster que abarca múltiples centros de datos con la replicación asíncrona sin maestro, lo que permite operaciones de baja latencia para todos los clientes, impulsando el uso de big data en las empresas, además permite procesos en tiempo real con cientos de fuentes de datos diferentes. 
+            p.mb-0 Es un tipo de base de datos NoSQL, tiene un nivel muy elevado de compatibilidad para el clúster que abarca múltiples centros de datos con la replicación asíncrona sin maestro, lo que permite operaciones de baja latencia para todos los clientes, impulsando el uso de <i>big data</i> en las empresas, además permite procesos en tiempo real con cientos de fuentes de datos diferentes. 
           .tarjeta.tarjeta--slyder.bg5.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
@@ -214,18 +214,18 @@
         .col-auto.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/29.png', alt='')  
         .col-10.my-3
-          p(data-aos="fade-down") Este hace referencia al principio del funcionamiento de la Web, donde un usuario solicita peticiones o servicios desde un navegador en un equipo de cómputo (celular, desktop u otro dispositivo) y estas solicitudes viajan por la red, para que un servidor envíe la respuesta a dicha petición; en la práctica esta dinámica de solicitudes y respuestas de peticiones se hacen de forma veloz, durante todo el tiempo que se usa la Internet.    
+          p(data-aos="fade-down") Este hace referencia al principio del funcionamiento de la web, donde un usuario solicita peticiones o servicios desde un navegador en un equipo de cómputo (celular, <i>desktop</i> u otro dispositivo) y estas solicitudes viajan por la red, para que un servidor envíe la respuesta a dicha petición; en la práctica esta dinámica de solicitudes y respuestas de peticiones se hacen de forma veloz, durante todo el tiempo que se usa la internet.    
 
     .row.justify-content-end.align-items-center.bg3.mb-5    
       .col-lg-8.my-3
         .p-4
-          p(data-aos="fade-down").mb-0 Es aquí donde un usuario denominado “cliente” y un servicio provisto por un “servidor” intercambian información mediante “peticiones” y “respuestas” entre ambos, dando cuenta del funcionamiento Web. Por el lado del cliente, quien está representado por las máquinas locales de los usuarios a través de navegadores, protocolos de comunicación y códigos de lenguaje fáciles de traducir por los sistemas del cliente (HTML, CSS, JSON, etc.), y por el lado del servidor que consta de elementos como la programación, la gestión de datos, los archivos y todo el funcionamiento interno de los servicios y peticiones.                          
+          p(data-aos="fade-down").mb-0 Es aquí donde un usuario denominado “cliente” y un servicio provisto por un “servidor” intercambian información mediante “peticiones” y “respuestas” entre ambos, dando cuenta del funcionamiento web. Por el lado del cliente, quien está representado por las máquinas locales de los usuarios a través de navegadores, protocolos de comunicación y códigos de lenguaje fáciles de traducir por los sistemas del cliente (HTML, CSS, JSON, etc.), y por el lado del servidor que consta de elementos como la programación, la gestión de datos, los archivos y todo el funcionamiento interno de los servicios y peticiones.                          
       .col-lg-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/30.png', alt='')  
 
     p(data-aos="fade-down") En este sentido, para el desarrollo web existen diversos profesionales especializados, aquellos que se concentran en crear para el <i>backend</i> (del lado del servidor) y quienes se especializan en <i>frontend</i> (del lado del cliente). Algunos profesionales tienen ambas habilidades técnicas y se denominan “<i>fullstacfk</i>”.
 
-    p(data-aos="fade-down").mb-5 En el siguiente recurso interactivo se ilustran los elementos que conforman el backend y el frontend para mejor comprensión:    
+    p(data-aos="fade-down").mb-5 En el siguiente recurso interactivo se ilustran los elementos que conforman el <i>backend</i> y el <i>frontend</i> para mejor comprensión:    
 
     ImagenInfograficaB.color-acento-botones.mb-5
       template(v-slot:imagen)
@@ -253,14 +253,14 @@
             img.img-a.img-t(src='@/assets/curso/temas/34.svg', alt='') 
           .col-10
             h4.mb-4 Validaciones
-            p.mb-0 En este aspecto el frontend se responsabiliza de cargar validaciones al momento de ingresar a zonas privadas que requieren autenticación de usuarios. Envía contraseñas y usuarios que viajan encriptadas y aceptan o no las validaciones.   
+            p.mb-0 En este aspecto el <i>frontend</i> se responsabiliza de cargar validaciones al momento de ingresar a zonas privadas que requieren autenticación de usuarios. Envía contraseñas y usuarios que viajan encriptadas y aceptan o no las validaciones.   
       div(x="16%" y="75%" tooltip="ver más" numero="4") 
         .row.justify-content-center.align-items-start
           .col-auto
             img.img-a.img-t(src='@/assets/curso/temas/35.svg', alt='') 
           .col-10
             h4.mb-4 Consumo de APIs
-            p.mb-0 Una APIs “interfaz de programación de aplicaciones” es un mecanismo para que dos software se integren, puedan comunicarse y compartir recursos entre sí, por ejemplo, si se desarrolla una aplicación que tenga que ver con mapas se puede usar la API de Google Maps u otras disponibles para que usen los recursos disponibles de otros sistemas.      
+            p.mb-0 Una APIs “interfaz de programación de aplicaciones” es un mecanismo para que dos <i>software</i> se integren, puedan comunicarse y compartir recursos entre sí, por ejemplo, si se desarrolla una aplicación que tenga que ver con mapas se puede usar la API de Google Maps u otras disponibles para que usen los recursos disponibles de otros sistemas.      
 
       div(x="84%" y="30%" tooltip="ver más" numero="5") 
         .row.justify-content-center.align-items-start
@@ -275,7 +275,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/37.svg', alt='') 
           .col-10
             h4.mb-4 Programación en <i>backend</i>
-            p.mb-0 La programación del lado del backend se traduce en el uso de lenguajes que se ejecutan en los servidores; lo que quiere decir que todo el trabajo del procesamiento y cálculos de datos e información se ejecutan en el servidor en el cual está alojado el servicio.    
+            p.mb-0 La programación del lado del <i>backend</i> se traduce en el uso de lenguajes que se ejecutan en los servidores; lo que quiere decir que todo el trabajo del procesamiento y cálculos de datos e información se ejecutan en el servidor en el cual está alojado el servicio.    
       div(x="84%" y="60%" tooltip="ver más" numero="7") 
         .row.justify-content-center.align-items-start
           .col-auto
@@ -287,7 +287,7 @@
     Separador 
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.5 Redundancia 
-    p(data-aos="fade-down") En el marco de la Ingeniería, la Informática y la Web, la redundancia se consolida como un respaldo para garantizar las mínimas caídas posibles de los servicios, de esta manera si una infraestructura o servicio falla entraría a operar el redundante; otra razón para implementar la redundancia es la conservación de la información, evitar pérdidas o incluso prevenciones contra ataques cibernéticos. 
+    p(data-aos="fade-down") En el marco de la Ingeniería, la Informática y la web, la redundancia se consolida como un respaldo para garantizar las mínimas caídas posibles de los servicios, de esta manera si una infraestructura o servicio falla entraría a operar el redundante; otra razón para implementar la redundancia es la conservación de la información, evitar pérdidas o incluso prevenciones contra ataques cibernéticos. 
 
     p(data-aos="fade-down").mb-5 Los tipos de redundancia más comunes son:         
 
@@ -300,7 +300,7 @@
             .tarjeta-flip__contenido.p-xl-5.p-4
               .bg7.p-2.mb-4
                 h4.text-center.mb-0 Redundancia de servidores
-              p.mb-0 Uno de los valores agregados que ofrecen los proveedores de computing cloud es la de garantizar servicios redundantes, de esta manera los datos (bases de datos) y procesos (programas en línea y archivos) que estén en un proveedor falla entrarían de manera automática al respaldo, a suplir mientras el servidor principal vuelve a subir los servicios.
+              p.mb-0 Uno de los valores agregados que ofrecen los proveedores de <i>computing cloud</i> es la de garantizar servicios redundantes, de esta manera los datos (bases de datos) y procesos (programas en línea y archivos) que estén en un proveedor falla entrarían de manera automática al respaldo, a suplir mientras el servidor principal vuelve a subir los servicios.
       .col-xl-4.col-md-6.col-8.mb-xl-0.mb-4(data-aos="flip-up")
         .tarjeta.tarjeta-flip.color-acento-contenido
           .tarjeta-flip__contenedor
@@ -308,7 +308,7 @@
             .tarjeta-flip__contenido.p-xl-5.p-4
               .bg7.p-2.mb-4
                 h4.text-center.mb-0 Redundancia de red
-              p.mb-0 Para algunas empresas es de vital importancia mantener la conexión, por lo que algunas organizaciones deciden tener redundancia de proveedores de Internet, ya sea para mantener velocidades más eficientes, separar servicios o simplemente como respaldo en caso de perder conexión con la salida principal.
+              p.mb-0 Para algunas empresas es de vital importancia mantener la conexión, por lo que algunas organizaciones deciden tener redundancia de proveedores de internet, ya sea para mantener velocidades más eficientes, separar servicios o simplemente como respaldo en caso de perder conexión con la salida principal.
       .col-xl-4.col-md-6.col-8.mb-xl-0.mb-4(data-aos="fade-left")
         .tarjeta.tarjeta-flip.color-acento-contenido
           .tarjeta-flip__contenedor

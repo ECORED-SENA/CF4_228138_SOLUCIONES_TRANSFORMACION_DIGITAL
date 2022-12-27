@@ -44,7 +44,7 @@
     p(data-aos="fade-down") Es una organización sin ánimo de lucro que provee el esquema de certificación profesional en ingeniería de requisitos (CPRE), el consejo está compuesto por representantes y líderes en IR (Requisitos Internacionales), que provienen de la academia, la investigación, la empresa y la consultoría. La página web oficial es 
       a.en(href="https://www.ireb.org/en" target="_blank") #[.or www.ireb.org]
 
-    p(data-aos="fade-down").mb-5 Esta surgió en Alemania en el año 2006; sin embargo, es un comité con alcance internacional, su objetivo es destacar la importancia de los requerimientos como una disciplina completa y mostrar su valor agregado a la industria del software.
+    p(data-aos="fade-down").mb-5 Esta surgió en Alemania en el año 2006; sin embargo, es un comité con alcance internacional, su objetivo es destacar la importancia de los requerimientos como una disciplina completa y mostrar su valor agregado a la industria del <i>software</i>.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.bg10.p-4
@@ -55,9 +55,9 @@
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/84.png', alt='') 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        p(data-aos="fade-down") La asociación estimula la estandarización y el uso de metodologías de la ingeniería de requerimientos que está enmarcado en la ingeniería del software.
+        p(data-aos="fade-down") La asociación estimula la estandarización y el uso de metodologías de la ingeniería de requerimientos que está enmarcado en la ingeniería del <i>software</i>.
 
-        p(data-aos="fade-down") n el medio actual, profesionales certificados en IREB no son comunes, por lo que podría ser una opción y una oportunidad para la certificación, a continuación se listan los aspectos que soportan la importancia de emplear técnicas en la fase de análisis y en la descripción de requerimientos:  
+        p(data-aos="fade-down") En el medio actual, profesionales certificados en IREB no son comunes, por lo que podría ser una opción y una oportunidad para la certificación, a continuación se listan los aspectos que soportan la importancia de emplear técnicas en la fase de análisis y en la descripción de requerimientos:  
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10.bg11.p-4
@@ -71,10 +71,10 @@
                 p.mb-0 Se estima que el 47 % de los fracasos en los proyectos se debe a la gestión deficiente de los requerimientos.
               li 
                 i.lista-ul__vineta.ulcolor
-                p.mb-0 Se considera que al menos el 20 % de los defectos en desarrollo de software tienen sus orígenes en los requerimientos o descripciones erróneas en los requerimientos; muchas veces las fallas no son un asunto de programación o de otra naturaleza, sino deficiencias en las fases iniciales.
+                p.mb-0 Se considera que al menos el 20 % de los defectos en desarrollo de <i>software</i> tienen sus orígenes en los requerimientos o descripciones erróneas en los requerimientos; muchas veces las fallas no son un asunto de programación o de otra naturaleza, sino deficiencias en las fases iniciales.
               li 
                 i.lista-ul__vineta.ulcolor
-                p.mb-0 Encontrar y corregir los defectos en el software después de entregado el proyecto es mucho más costoso que hacerlo en la fase de requerimientos. 
+                p.mb-0 Encontrar y corregir los defectos en el <i>software</i> después de entregado el proyecto es mucho más costoso que hacerlo en la fase de requerimientos. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
@@ -116,9 +116,9 @@
         .col-auto.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/89.png', alt='')  
         .col-10.my-3
-          p(data-aos="fade-down") El Instituto de Ingenieros Eléctricos y Electrónicos es la organización internacional más grande que se encarga de promover avances científicos en las áreas electrónica, eléctrica, informática, energética y demás áreas relacionadas, además es la sociedad que regula y estandariza las normas internaciones de estas disciplinas, este surgió en los Estados Unidos desde la década de los 60, lo que ha permitido que la estandarización de los requisitos de software estén basados en las Normas IEEE.
+          p(data-aos="fade-down") El Instituto de Ingenieros Eléctricos y Electrónicos es la organización internacional más grande que se encarga de promover avances científicos en las áreas electrónica, eléctrica, informática, energética y demás áreas relacionadas, además es la sociedad que regula y estandariza las normas internaciones de estas disciplinas, este surgió en los Estados Unidos desde la década de los 60, lo que ha permitido que la estandarización de los requisitos de <i>software</i> estén basados en las Normas IEEE.
 
-    p(data-aos="fade-down") La especificación de requisitos de software (ERS) hace referencia a una descripción que debe indicar algo y esta especificación debe ser entendida por el cliente, no puede llevar elementos de implementación o de desarrollo de soluciones técnicas, y a partir de una especificación surgen otras especificaciones más detalladas de producto en  la descripción documentada.
+    p(data-aos="fade-down") La especificación de requisitos de <i>software</i> (ERS) hace referencia a una descripción que debe indicar algo y esta especificación debe ser entendida por el cliente, no puede llevar elementos de implementación o de desarrollo de soluciones técnicas, y a partir de una especificación surgen otras especificaciones más detalladas de producto en  la descripción documentada.
 
     p(data-aos="fade-down").mb-5 La metodología IEEE 830 presenta la siguiente estructura:   
 

@@ -16,12 +16,12 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/64.png', alt='') 
 
       .col-lg-10 
-        p(data-aos="fade-down").mb-0 Los requisitos comunican las expectativas de los consumidores de productos software; de otra parte, los requisitos pueden ser obvios o estar ocultos, conocidos o desconocidos, esperados o inesperados, desde el punto de vista del cliente.
+        p(data-aos="fade-down").mb-0 Los requisitos comunican las expectativas de los consumidores de productos <i>software</i>; de otra parte, los requisitos pueden ser obvios o estar ocultos, conocidos o desconocidos, esperados o inesperados, desde el punto de vista del cliente.
     Separador 
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 4.1 Importancia de los requisitos. 
+      h2 4.1 Importancia de los requisitos
 
-    p(data-aos="fade-down").mb-5 Los requisitos cobran importancia dentro del ciclo de vida del software, puesto que:
+    p(data-aos="fade-down").mb-5 Los requisitos cobran importancia dentro del ciclo de vida del <i>software</i>, puesto que:
     .row.mb-5
       .col-12.col-md-8
         .row.mt-2(data-aos="fade-right")
@@ -79,7 +79,7 @@
                 p Los cambios en los requisitos deben hacerse de manera sistemática, y debe tenerse en cuenta su impacto en otros requisitos. 
             .row.justify-content-center.align-items-start(titulo="Priorizado")
               .col-11
-                p ategorizar el requerimiento nos ayuda a saber el grado de necesidad del mismo: esencial/crítico, deseado, opcional verificable. 
+                p Ategorizar el requerimiento nos ayuda a saber el grado de necesidad del mismo: esencial/crítico, deseado, opcional verificable. 
             .row.justify-content-center.align-items-start(titulo="Verificable")
               .col-11
                 p Si un requerimiento no se puede comprobar, entonces, ¿cómo se sabe si se cumplió con él o no? Debe ser posible verificarlo ya sea por inspección, análisis de prueba o demostración. Cuando se escriba un requerimiento, se deberán determinar los criterios de aceptación. 
@@ -99,13 +99,13 @@
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg6")
-          .row.justify-content-center.align-items-center(titulo="Modelo en cascada.") 
+          .row.justify-content-center.align-items-center(titulo="Requerimientos de usuario") 
             .col-lg-4.col-md-12.my-3
               img.img-a.img-t(src='@/assets/curso/temas/70.png', alt='')                   
             .col-lg-8.col-md-12.my-3
               p Son declaraciones, en lenguaje natural y en diagramas, de los servicios que se espera que el sistema proporcione y de las restricciones bajo las cuales debe funcionar. 
 
-          .row.justify-content-center.align-items-center(titulo="Modelo en cascada.") 
+          .row.justify-content-center.align-items-center(titulo="Requerimientos de sistema") 
             .col-lg-4.col-md-12.my-3
               img.img-a.img-t(src='@/assets/curso/temas/71.png', alt='')                   
             .col-lg-8.col-md-12.my-3
@@ -116,13 +116,13 @@
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg6")
-          .row.justify-content-center.align-items-center(titulo="Modelo en cascada.") 
+          .row.justify-content-center.align-items-center(titulo="Requerimientos funcionales") 
             .col-lg-4.col-md-12.my-3
               img.img-a.img-t(src='@/assets/curso/temas/72.png', alt='')                   
             .col-lg-8.col-md-12.my-3
               p Son declaraciones de los servicios que debe proporcionar el sistema, de la manera en que este debe reaccionar a entradas particulares; o también pueden declarar explícitamente lo que el sistema no debe hacer. 
 
-          .row.justify-content-center.align-items-center(titulo="Modelo en cascada.") 
+          .row.justify-content-center.align-items-center(titulo="Requerimientos no funcionales") 
             .col-lg-4.col-md-12.my-3
               img.img-a.img-t(src='@/assets/curso/temas/73.png', alt='')                   
             .col-lg-8.col-md-12.my-3

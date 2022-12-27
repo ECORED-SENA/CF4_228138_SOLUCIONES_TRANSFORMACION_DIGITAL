@@ -13,7 +13,7 @@
         .col-auto.my-3
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/1.png', alt='')  
         .col-10.my-3
-          p(data-aos="fade-down") En este componente se abordarán los conceptos y los fundamentos para realizar la documentación e informe de requisitos con base en las buenas prácticas, además se abordarán los conceptos acerca del ciclo de vida del software y las aplicaciones web. Vea un video que contextualiza al respecto: 
+          p(data-aos="fade-down") En este componente se abordarán los conceptos y los fundamentos para realizar la documentación e informe de requisitos con base en las buenas prácticas, además se abordarán los conceptos acerca del ciclo de vida del <i>software</i> y las aplicaciones web. Vea un video que contextualiza al respecto: 
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-12(data-aos="fade-left")     
