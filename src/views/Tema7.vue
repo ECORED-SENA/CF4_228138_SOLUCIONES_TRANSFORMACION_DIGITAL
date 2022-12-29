@@ -46,7 +46,7 @@
                   h3.mb-1 Estilo APA
                   p.mb-0 En este documento podrá profundizar en las instrucciones del uso de estilo APA, citas bibliográficas, referencias bibliográficas; cómo aprovechar Microsoft Word para el uso de citas y referencias, y algunos sitios web recomendados.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="http://dx.doi.org/10.1798/cultedusoc.10.2.2019.05" target="_blank")
+                  a.boton.color-acento-botones(href="https://revistascientificas.cuc.edu.co/culturaeducacionysociedad/article/view/2476" target="_blank")
                     span Descargar
                     i.fas.fa-file-download  
 
